@@ -6,8 +6,7 @@ int Q, N;
 int A[3000];
 
 int main() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
+
 
     cin >> Q;
     while (Q--) {
